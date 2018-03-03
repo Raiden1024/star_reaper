@@ -8,4 +8,5 @@ Have fun...
 
 Level music from: https://www.youtube.com/watch?v=d0znWIBwLCE (if author of this remix ask me to delete track, no problem, i'll do it)
 
-[[/assets/img/starreaper.png]]
+
+![starreaper.png](/assets/img/starreaper.png)
